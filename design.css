@@ -18,3 +18,8 @@ div.end{
     left: 40%;
     height: 13%;
 }
+
+div.title{
+    position: relative;
+    left: 40%
+}
