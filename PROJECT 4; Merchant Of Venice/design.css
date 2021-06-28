@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+hr{
+    border-style: double;
+    color: rgb(74, 145, 179);
+    size: 7px;
+}
+table{
+    background-color: #CCF6F6;
+}
+img{
+    height: 100px
+}
+div.end{
+    position: relative;
+    left: 40%;
+    height: 13%;
+}
